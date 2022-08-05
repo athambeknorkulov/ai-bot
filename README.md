@@ -1,4 +1,4 @@
-# ai-bot
+# AI - chatbot
 
 ⚙Setup:
 
