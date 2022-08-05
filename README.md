@@ -10,7 +10,7 @@ Go to the respective directory where you want to setup this project and type the
 
 git clone https://github.com/athambeknorkulov/ai-bot
 
-cd AI-Chatbot
+cd ai-bot
 
 python chat.py
 
